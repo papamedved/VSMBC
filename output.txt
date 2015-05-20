@@ -1,0 +1,17 @@
+Virtual User Script started at : 2015-05-20 08:58:50
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+
+XML DOM Created Successfully..
+
+Email and attachment has created..
+System.out: Done                                                                                                                                                      Notify:
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
